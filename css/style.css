@@ -22,13 +22,10 @@
   padding: 20px;
   width: 360px;
   height: 360px;
-  /*
   top: 50px;
-  left: 50px;
+  left: 0px;
   position: absolute;
-  */
   cursor: hand;
-  margin: 0 auto;
 }
 .rotate-left {
   transform: rotate(30deg) scale(0.8);
