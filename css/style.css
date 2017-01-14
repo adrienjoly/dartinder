@@ -1,9 +1,9 @@
 
 #container {
-  width: 500px;
+  width: 400px;
   margin: auto !important;
   display: block;
-  height: 500px;
+  height: 400px;
   position: relative;
   list-style-type: none;
   -webkit-touch-callout: none;
@@ -22,8 +22,6 @@
   padding: 20px;
   width: 360px;
   height: 360px;
-  top: 50px;
-  left: 50px;
   position: absolute;
   cursor: hand;
 }
