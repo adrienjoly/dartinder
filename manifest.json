@@ -1,5 +1,6 @@
 {
   "name": "DARTinder",
+  "description": "a Tinder parody app (pure mobile web client to swipe photos and play sounds)",
   "icons": [
     {
       "src": "img/icon-192.png",
